@@ -16,7 +16,7 @@ This project demonstrates how to use placeholders in HTML input fields and how t
 
 ## Website
 
-[Website](https://github.com/Devender-008/Placeholder-Demo/)
+[Website](https://devender-008.github.io/Placeholder-Demo/)
 
 
 
